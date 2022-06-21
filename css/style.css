@@ -1,0 +1,78 @@
+main {
+    background-color: #343a40;
+}
+
+.fonte__logo {
+    font-family: 'Satisfy', cursive;
+    font-size: 3em;
+    color: darkorange!important;
+}
+
+.fonte__menu {
+    font-size: 1.25em;;
+}
+
+.imagem__carrossel--um {
+    object-fit: cover;
+    object-position: 0 40%;
+    height: 500px;
+}
+
+.imagem__carrossel--dois {
+    object-fit: cover;
+    object-position: 0 30%;
+    height: 500px;
+}
+
+.imagem__carrossel--tres {
+    object-fit: cover;
+    object-position: 0 65%;
+    height: 500px;
+}
+
+.linha {
+    background-color: darkorange;
+    height: 0.05em;
+    margin: 0.7em;
+}
+
+.subtitulo {
+    font-size: 1.5em;
+    margin: 0.5em;
+    color: #fff;
+    font-weight: 400;
+}
+
+.cartao__estilo {
+    max-width: 18rem;
+    box-shadow: 0 0 15px #000000;
+    border-color: #000000;
+}
+
+.cartao__imagem {
+    object-fit: cover;
+    height: 250px;
+    outline: 1px solid #000000;
+}
+
+.cartao__botao {
+    background-color: darkorange;
+    color: #ffffff;
+    width: 100%;
+}
+
+.modal__botao {
+    background-color: darkorange;
+    color: #ffffff;
+}
+
+.rodape {
+    background-color: darkorange;
+    text-align: end;
+}
+
+.rodape__logo {
+    font-family: 'Satisfy', cursive;
+    font-size: 2em;
+    color: #000000;
+}
